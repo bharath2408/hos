@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "fullName": "Saravanan",
+    "email": "saravanans1426@gmail.com",
+    "password": "1234567890",
+    "createdAt": "2024-10-29T11:01:56.772Z"
+  },
+  {
+    "id": 2,
+    "fullName": "Logan",
+    "email": "logan1426@gmail.com",
+    "password": "1234567890",
+    "createdAt": "2024-10-29T11:29:53.621Z"
+  },
+  {
+    "id": 3,
+    "fullName": "Logan",
+    "email": "logans1426@gmail.com",
+    "password": "1234567890",
+    "createdAt": "2024-10-29T11:33:31.662Z"
+  },
+  {
+    "id": 4,
+    "fullName": "srinivasan",
+    "email": "srini17121vasan@gmail.com",
+    "password": "1233545464673",
+    "createdAt": "2024-10-30T09:38:43.489Z"
+  },
+  {
+    "id": 5,
+    "fullName": "rohit",
+    "email": "rohit@gmail.com",
+    "position": "candidate",
+    "password": "1234567890-",
+    "createdAt": "2024-10-30T09:42:04.814Z"
+  },
+  {
+    "id": 6,
+    "fullName": "sharieff",
+    "email": "sharieff23@gmail.com",
+    "position": "supervisor",
+    "password": "1234567890",
+    "createdAt": "2024-10-30T09:50:31.862Z"
+  },
+  {
+    "id": 7,
+    "fullName": "kirthy rajan",
+    "email": "kirthyrajang@gmail.com",
+    "position": "supervisor",
+    "password": "kirthyeorrfh",
+    "createdAt": "2024-10-30T10:13:37.239Z"
+  },
+  {
+    "id": 8,
+    "fullName": "srini",
+    "email": "srini1111@gmail.com",
+    "position": "supervisor",
+    "password": "kirthyeorrfh",
+    "createdAt": "2024-10-30T10:13:37.239Z"
+  },
+  {
+    "id": 9,
+    "fullName": "rohit",
+    "email": "rohit@gmail.com",
+    "position": "candidate",
+    "password": "1234567890-",
+    "createdAt": "2024-10-30T09:42:04.814Z"
+  },
+  {
+    "id": 10,
+    "fullName": "kirthy rajan",
+    "email": "kirthyrajang@gmail.com",
+    "position": "supervisor",
+    "password": "kirthyeorrfh",
+    "createdAt": "2024-10-30T10:13:37.239Z"
+  },
+  {
+    "id": 11,
+    "fullName": "saravanan",
+    "email": "saravana@gmail.com",
+    "position": "supervisor",
+    "password": "1234567890",
+    "createdAt": "2024-10-30T10:13:37.239Z"
+  },
+  {
+    "id": 12,
+    "fullName": "muhammad",
+    "email": "muhammad@gmail.com",
+    "position": "trainee"
+  }
+]

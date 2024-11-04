@@ -1,0 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-rgb: 249, 250, 251;
+}
+
+* {
+  @apply border-gray-200;  /* or any other valid Tailwind border color */
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: rgb(var(--background-rgb));
+}
+
+/* Add this to ensure all text has proper color by default */
+@layer base {
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-gray-900;
+  }
+  p {
+    @apply text-gray-600;
+  }
+}
